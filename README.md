@@ -1,2 +1,2 @@
 # Leetcode
-Some of my code
+Snippets of my code masterpiece
